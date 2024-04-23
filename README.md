@@ -1,9 +1,13 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Anime Vault
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+### Tech Stack
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+- Next.js / TypeScript
+- TailwindCSS
+- Framer Motion
 
+### Demo
+
+<img width="1792" alt="image" src="https://github.com/plskz/anime-vault/assets/57343545/70da833d-19a7-45bb-b6a9-955e194cb3d8">
+
+<img width="1792" alt="image" src="https://github.com/plskz/anime-vault/assets/57343545/97c0f99c-cf1c-4baa-bc0f-e73729def750">
