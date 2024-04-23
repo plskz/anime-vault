@@ -1,5 +1,5 @@
-import AnimeCard, { AnimeProp } from "@/components/AnimeCard";
-import LoadMore from "../components/LoadMore";
+import AnimeCard, { AnimeProp } from "@/components/anime-card";
+import LoadMore from "../components/load-more";
 import { data } from "./_data";
 
 async function Home() {

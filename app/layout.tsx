@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
 
-import Hero from "@/components/Hero";
-import Footer from "@/components/Footer";
+import Hero from "@/components/hero";
+import Footer from "@/components/footer";
 
 import "./globals.css";
 
