@@ -1,6 +1,7 @@
-import AnimeCard, { AnimeProp } from "@/components/anime-card";
-import LoadMore from "../components/load-more";
-import { data } from "./_data";
+import { data } from './_data'
+
+import AnimeCard, { AnimeProp } from '@/components/anime-card'
+import LoadMore from '@/components/load-more'
 
 async function Home() {
   return (
@@ -14,7 +15,7 @@ async function Home() {
       </section>
       <LoadMore />
     </main>
-  );
+  )
 }
 
-export default Home;
+export default Home

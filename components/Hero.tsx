@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from 'next/image'
 
 function Hero() {
   return (
@@ -20,7 +20,7 @@ function Hero() {
         <Image src="/anime.png" alt="anime" fill className="object-contain" />
       </div>
     </header>
-  );
+  )
 }
 
-export default Hero;
+export default Hero

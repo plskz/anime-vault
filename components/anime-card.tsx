@@ -1,20 +1,20 @@
-import Image from "next/image";
+import Image from 'next/image'
 
 export interface AnimeProp {
-  id: string;
-  name: string;
+  id: string
+  name: string
   image: {
-    original: string;
-  };
-  kind: string;
-  episodes: number;
-  episodes_aired: number;
-  score: string;
+    original: string
+  }
+  kind: string
+  episodes: number
+  episodes_aired: number
+  score: string
 }
 
 interface Prop {
-  anime: AnimeProp;
-  index: number;
+  anime: AnimeProp
+  index: number
 }
 
 function AnimeCard({ anime }: Prop) {
@@ -65,7 +65,7 @@ function AnimeCard({ anime }: Prop) {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
-export default AnimeCard;
+export default AnimeCard

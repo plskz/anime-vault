@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from 'next/image'
 
 function LoadMore() {
   return (
@@ -15,7 +15,7 @@ function LoadMore() {
         </div>
       </section>
     </>
-  );
+  )
 }
 
-export default LoadMore;
+export default LoadMore
